@@ -1,0 +1,3036 @@
+{
+  "items": [
+    {
+      "context": "Additive",
+      "e_number": "E559",
+      "additiveName": "Aluminium silicate (Kaolin)",
+      "id": "262",
+      "isGroup": "No",
+      "subject": "additive-262"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E337",
+      "additiveName": "Sodium potassium tartrate",
+      "id": "126",
+      "isGroup": "No",
+      "subject": "additive-126"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E150a",
+      "additiveName": "Plain caramel",
+      "id": "22",
+      "isGroup": "No",
+      "subject": "additive-22"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1208",
+      "additiveName": "Polyvinylpyrrolidone-vinyl acetate copolymer",
+      "id": "354",
+      "isGroup": "No",
+      "subject": "additive-354"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E523",
+      "additiveName": "Aluminium ammonium sulphate",
+      "id": "239",
+      "isGroup": "No",
+      "subject": "additive-239"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E220 - 228",
+      "additiveName": "Sulphur dioxide - sulphites",
+      "id": "64",
+      "isGroup": "Yes",
+      "subject": "additive-64"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E512",
+      "additiveName": "Stannous chloride",
+      "id": "229",
+      "isGroup": "No",
+      "subject": "additive-229"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E325",
+      "additiveName": "Sodium lactate",
+      "id": "116",
+      "isGroup": "No",
+      "subject": "additive-116"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E541",
+      "additiveName": "Sodium aluminium phosphate acidic",
+      "id": "252",
+      "isGroup": "No",
+      "subject": "additive-252"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E302",
+      "additiveName": "Calcium ascorbate",
+      "id": "99",
+      "isGroup": "No",
+      "subject": "additive-99"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E466",
+      "additiveName": "Carboxy methyl cellulose, Sodium carboxy methyl cellulose, cellulose gum",
+      "id": "191",
+      "isGroup": "No",
+      "subject": "additive-191"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E160b",
+      "additiveName": "Annatto, Bixin, Norbixin",
+      "id": "31",
+      "isGroup": "No",
+      "subject": "additive-31"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E927b",
+      "additiveName": "Carbamide",
+      "id": "302",
+      "isGroup": "No",
+      "subject": "additive-302"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E301",
+      "additiveName": "Sodium ascorbate",
+      "id": "98",
+      "isGroup": "No",
+      "subject": "additive-98"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E625",
+      "additiveName": "Magnesium diglutamate",
+      "id": "278",
+      "isGroup": "No",
+      "subject": "additive-278"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E472f",
+      "additiveName": "Mixed acetic and tartaric acid esters of mono- and diglycerides  of fatty acids",
+      "id": "202",
+      "isGroup": "No",
+      "subject": "additive-202"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E403",
+      "additiveName": "Ammonium alginate",
+      "id": "150",
+      "isGroup": "No",
+      "subject": "additive-150"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E251",
+      "additiveName": "Sodium nitrate",
+      "id": "79",
+      "isGroup": "No",
+      "subject": "additive-79"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E442",
+      "additiveName": "Ammonium phosphatides",
+      "id": "178",
+      "isGroup": "No",
+      "subject": "additive-178"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E356",
+      "additiveName": "Sodium adipate",
+      "id": "140",
+      "isGroup": "No",
+      "subject": "additive-140"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E962",
+      "additiveName": "Salt of aspartame-acesulfame",
+      "id": "321",
+      "isGroup": "No",
+      "subject": "additive-321"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E426",
+      "additiveName": "Soybean hemicellulose",
+      "id": "168",
+      "isGroup": "No",
+      "subject": "additive-168"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E901",
+      "additiveName": "Beeswax, white and yellow",
+      "id": "293",
+      "isGroup": "No",
+      "subject": "additive-293"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E578",
+      "additiveName": "Calcium gluconate",
+      "id": "268",
+      "isGroup": "No",
+      "subject": "additive-268"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E142",
+      "additiveName": "Green S",
+      "id": "21",
+      "isGroup": "No",
+      "subject": "additive-21"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E262",
+      "additiveName": "Sodium acetates",
+      "id": "84",
+      "isGroup": "No",
+      "subject": "additive-84"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E492",
+      "additiveName": "Sorbitan tristearate",
+      "id": "216",
+      "isGroup": "No",
+      "subject": "additive-216"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1422",
+      "additiveName": "Acetylated distarch adipate",
+      "id": "341",
+      "isGroup": "No",
+      "subject": "additive-341"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E336",
+      "additiveName": "Potassium tartrates",
+      "id": "125",
+      "isGroup": "No",
+      "subject": "additive-125"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E150a-d",
+      "additiveName": "Caramels",
+      "id": "23",
+      "isGroup": "Yes",
+      "subject": "additive-23"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E468",
+      "additiveName": "Crosslinked sodium carboxy methyl cellulose, cross linked cellulose gum",
+      "id": "192",
+      "isGroup": "No",
+      "subject": "additive-192"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E570",
+      "additiveName": "Fatty acids",
+      "id": "263",
+      "isGroup": "No",
+      "subject": "additive-263"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E522",
+      "additiveName": "Aluminium potassium sulphate",
+      "id": "238",
+      "isGroup": "No",
+      "subject": "additive-238"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E220",
+      "additiveName": "Sulphur dioxide",
+      "id": "63",
+      "isGroup": "No",
+      "subject": "additive-63"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E511",
+      "additiveName": "Magnesium chloride",
+      "id": "228",
+      "isGroup": "No",
+      "subject": "additive-228"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E440",
+      "additiveName": "Pectins",
+      "id": "177",
+      "isGroup": "No",
+      "subject": "additive-177"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E160d",
+      "additiveName": "Lycopene",
+      "id": "33",
+      "isGroup": "No",
+      "subject": "additive-33"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E551",
+      "additiveName": "Silicon dioxide",
+      "id": "253",
+      "isGroup": "No",
+      "subject": "additive-253"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E322",
+      "additiveName": "Lecithins",
+      "id": "115",
+      "isGroup": "No",
+      "subject": "additive-115"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E920",
+      "additiveName": "L-cysteine",
+      "id": "301",
+      "isGroup": "No",
+      "subject": "additive-301"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E300",
+      "additiveName": "Ascorbic acid",
+      "id": "97",
+      "isGroup": "No",
+      "subject": "additive-97"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E626",
+      "additiveName": "Guanylic acid",
+      "id": "279",
+      "isGroup": "No",
+      "subject": "additive-279"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E160c",
+      "additiveName": "Paprika extract, capsanthin, capsorubin",
+      "id": "32",
+      "isGroup": "No",
+      "subject": "additive-32"
+    },
+    {
+      "context": "Additive",
+      "additiveName": "Magnesium diphosphate",
+      "id": "363",
+      "isGroup": "No",
+      "subject": "additive-363"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E250",
+      "additiveName": "Sodium nitrite",
+      "id": "78",
+      "isGroup": "No",
+      "subject": "additive-78"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E473",
+      "additiveName": "Sucrose esters of fatty acids",
+      "id": "203",
+      "isGroup": "No",
+      "subject": "additive-203"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E261",
+      "additiveName": "Potassium acetates",
+      "id": "83",
+      "isGroup": "No",
+      "subject": "additive-83"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E960",
+      "additiveName": "Steviol Glycosides",
+      "id": "353",
+      "isGroup": "No",
+      "subject": "additive-353"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E425",
+      "additiveName": "Konjac",
+      "id": "167",
+      "isGroup": "No",
+      "subject": "additive-167"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E965",
+      "additiveName": "Maltitols",
+      "id": "322",
+      "isGroup": "No",
+      "subject": "additive-322"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E900",
+      "additiveName": "Dimethyl polysiloxane",
+      "id": "292",
+      "isGroup": "No",
+      "subject": "additive-292"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1440",
+      "additiveName": "Hydroxy propyl starch",
+      "id": "342",
+      "isGroup": "No",
+      "subject": "additive-342"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E493",
+      "additiveName": "Sorbitan monolaurate",
+      "id": "217",
+      "isGroup": "No",
+      "subject": "additive-217"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E579",
+      "additiveName": "Ferrous gluconate",
+      "id": "269",
+      "isGroup": "No",
+      "subject": "additive-269"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E422",
+      "additiveName": "Glycerol",
+      "id": "166",
+      "isGroup": "No",
+      "subject": "additive-166"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E338 - 341, E343 and E450 - 452",
+      "additiveName": "Phosphoric acid - phosphates - di - tri- and polyphosphates",
+      "id": "128",
+      "isGroup": "Yes",
+      "subject": "additive-128"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E304",
+      "additiveName": "Fatty acid esters of ascorbic acid",
+      "id": "100",
+      "isGroup": "No",
+      "subject": "additive-100"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E574",
+      "additiveName": "Gluconic acid",
+      "id": "264",
+      "isGroup": "No",
+      "subject": "additive-264"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E321",
+      "additiveName": "Butylated hydroxytoluene (BHT)",
+      "id": "114",
+      "isGroup": "No",
+      "subject": "additive-114"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E160e",
+      "additiveName": "Beta-apo-8'-carotenal (C 30)",
+      "id": "34",
+      "isGroup": "No",
+      "subject": "additive-34"
+    },
+    {
+      "context": "Additive",
+      "e_number": "926",
+      "additiveName": "Chlorine dioxide",
+      "id": "366",
+      "isGroup": "No",
+      "subject": "additive-366"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E509",
+      "additiveName": "Calcium chloride",
+      "id": "227",
+      "isGroup": "No",
+      "subject": "additive-227"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E536",
+      "additiveName": "Potassium ferrocyanide",
+      "id": "250",
+      "isGroup": "No",
+      "subject": "additive-250"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E249",
+      "additiveName": "Potassium nitrite",
+      "id": "76",
+      "isGroup": "No",
+      "subject": "additive-76"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E249 - 250",
+      "additiveName": "Nitrites",
+      "id": "77",
+      "isGroup": "Yes",
+      "subject": "additive-77"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E914",
+      "additiveName": "Oxidized polyethylene wax",
+      "id": "300",
+      "isGroup": "No",
+      "subject": "additive-300"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E297",
+      "additiveName": "Fumaric acid",
+      "id": "96",
+      "isGroup": "No",
+      "subject": "additive-96"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E473 - 474",
+      "additiveName": "Sucrose esters of fatty acids, Sucroglycerides",
+      "id": "204",
+      "isGroup": "Yes",
+      "subject": "additive-204"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E405",
+      "additiveName": "Propane-1, 2-diol alginate",
+      "id": "152",
+      "isGroup": "No",
+      "subject": "additive-152"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E200 - 203; 214 - 219",
+      "additiveName": "Sorbic acid - sorbates; p-hydroxybenzoates (SA + PHB)",
+      "id": "48",
+      "isGroup": "Yes",
+      "subject": "additive-48"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E576",
+      "additiveName": "Sodium gluconate",
+      "id": "266",
+      "isGroup": "No",
+      "subject": "additive-266"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E270",
+      "additiveName": "Lactic acid",
+      "id": "86",
+      "isGroup": "No",
+      "subject": "additive-86"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E223",
+      "additiveName": "Sodium metabisulphite",
+      "id": "67",
+      "isGroup": "No",
+      "subject": "additive-67"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E650",
+      "additiveName": "Zinc acetate",
+      "id": "291",
+      "isGroup": "No",
+      "subject": "additive-291"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E491",
+      "additiveName": "Sorbitan monostearate",
+      "id": "214",
+      "isGroup": "No",
+      "subject": "additive-214"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1521",
+      "additiveName": "Polyethylene glycol",
+      "id": "352",
+      "isGroup": "No",
+      "subject": "additive-352"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E961",
+      "additiveName": "Neotame",
+      "id": "320",
+      "isGroup": "No",
+      "subject": "additive-320"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E221",
+      "additiveName": "Sodium sulphite",
+      "id": "65",
+      "isGroup": "No",
+      "subject": "additive-65"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E338",
+      "additiveName": "Phosphoric acid",
+      "id": "127",
+      "isGroup": "No",
+      "subject": "additive-127"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E421",
+      "additiveName": "Mannitol",
+      "id": "165",
+      "isGroup": "No",
+      "subject": "additive-165"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E575",
+      "additiveName": "Glucono-delta-lactone",
+      "id": "265",
+      "isGroup": "No",
+      "subject": "additive-265"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E445",
+      "additiveName": "Glycerol esters of wood rosins",
+      "id": "180",
+      "isGroup": "No",
+      "subject": "additive-180"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E465",
+      "additiveName": "Ethyl methyl cellulose",
+      "id": "190",
+      "isGroup": "No",
+      "subject": "additive-190"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E320",
+      "additiveName": "Butylated hydroxyanisole (BHA)",
+      "id": "113",
+      "isGroup": "No",
+      "subject": "additive-113"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E538",
+      "additiveName": "Calcium ferrocyanide",
+      "id": "251",
+      "isGroup": "No",
+      "subject": "additive-251"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E161b",
+      "additiveName": "Lutein",
+      "id": "35",
+      "isGroup": "No",
+      "subject": "additive-35"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E242",
+      "additiveName": "Dimethyl dicarbonate",
+      "id": "75",
+      "isGroup": "No",
+      "subject": "additive-75"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E508",
+      "additiveName": "Potassium chloride",
+      "id": "226",
+      "isGroup": "No",
+      "subject": "additive-226"
+    },
+    {
+      "context": "Additive",
+      "additiveName": "Advantame",
+      "id": "365",
+      "isGroup": "No",
+      "subject": "additive-365"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E444",
+      "additiveName": "Sucrose acetate isobutyrate",
+      "id": "179",
+      "isGroup": "No",
+      "subject": "additive-179"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E640",
+      "additiveName": "Glycine and its sodium salt",
+      "id": "290",
+      "isGroup": "No",
+      "subject": "additive-290"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E404",
+      "additiveName": "Calcium alginate",
+      "id": "151",
+      "isGroup": "No",
+      "subject": "additive-151"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E948",
+      "additiveName": "Oxygen",
+      "id": "310",
+      "isGroup": "No",
+      "subject": "additive-310"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E474",
+      "additiveName": "Sucroglycerides",
+      "id": "205",
+      "isGroup": "No",
+      "subject": "additive-205"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1201",
+      "additiveName": "Polyvinylpyrrolidone",
+      "id": "330",
+      "isGroup": "No",
+      "subject": "additive-330"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E296",
+      "additiveName": "Malic acid",
+      "id": "95",
+      "isGroup": "No",
+      "subject": "additive-95"
+    },
+    {
+      "context": "Additive",
+      "e_number": ".....",
+      "additiveName": "Kopal",
+      "id": "379",
+      "isGroup": "No",
+      "subject": "additive-379"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E491 - 495",
+      "additiveName": "Sorbitan esters",
+      "id": "215",
+      "isGroup": "Yes",
+      "subject": "additive-215"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E200 - 213",
+      "additiveName": "Sorbic acid - sorbates; Benzoic acid - benzoates (SA + BA)",
+      "id": "49",
+      "isGroup": "Yes",
+      "subject": "additive-49"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E577",
+      "additiveName": "Potassium gluconate",
+      "id": "267",
+      "isGroup": "No",
+      "subject": "additive-267"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E141",
+      "additiveName": "Copper complexes of chlorophylls, chlorophyllins",
+      "id": "20",
+      "isGroup": "No",
+      "subject": "additive-20"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E263",
+      "additiveName": "Calcium acetate",
+      "id": "85",
+      "isGroup": "No",
+      "subject": "additive-85"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1420",
+      "additiveName": "Acetylated starch",
+      "id": "340",
+      "isGroup": "No",
+      "subject": "additive-340"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1520",
+      "additiveName": "Propane-1, 2-diol (propylene glycol)",
+      "id": "351",
+      "isGroup": "No",
+      "subject": "additive-351"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E222",
+      "additiveName": "Sodium hydrogen sulphite",
+      "id": "66",
+      "isGroup": "No",
+      "subject": "additive-66"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E239",
+      "additiveName": "Hexamethylene tetramine",
+      "id": "74",
+      "isGroup": "No",
+      "subject": "additive-74"
+    },
+    {
+      "context": "Additive",
+      "additiveName": "Hydrogen peroxide",
+      "id": "368",
+      "isGroup": "No",
+      "subject": "additive-368"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E434",
+      "additiveName": "Polyoxyethylene sorbitan monopalmitate (polysorbate 40)",
+      "id": "174",
+      "isGroup": "No",
+      "subject": "additive-174"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E450",
+      "additiveName": "Diphosphates",
+      "id": "181",
+      "isGroup": "No",
+      "subject": "additive-181"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E161g",
+      "additiveName": "Canthaxanthin",
+      "id": "36",
+      "isGroup": "No",
+      "subject": "additive-36"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E319",
+      "additiveName": "Tertiary-butyl hydroquinone (TBHQ)",
+      "id": "112",
+      "isGroup": "No",
+      "subject": "additive-112"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E101",
+      "additiveName": "Riboflavins",
+      "id": "6",
+      "isGroup": "No",
+      "subject": "additive-6"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E281",
+      "additiveName": "Sodium propionate",
+      "id": "89",
+      "isGroup": "No",
+      "subject": "additive-89"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E964",
+      "additiveName": "Polyglycitol syrup",
+      "id": "358",
+      "isGroup": "No",
+      "subject": "additive-358"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E470b",
+      "additiveName": "Magnesium salts of fatty acids",
+      "id": "195",
+      "isGroup": "No",
+      "subject": "additive-195"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1451",
+      "additiveName": "Acetylated oxidised starch",
+      "id": "345",
+      "isGroup": "No",
+      "subject": "additive-345"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E215",
+      "additiveName": "Sodium ethyl p-hydroxybenzoate",
+      "id": "60",
+      "isGroup": "No",
+      "subject": "additive-60"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E131",
+      "additiveName": "Patent Blue V",
+      "id": "16",
+      "isGroup": "No",
+      "subject": "additive-16"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E150d",
+      "additiveName": "Sulphite ammonia caramel",
+      "id": "26",
+      "isGroup": "No",
+      "subject": "additive-26"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E420",
+      "additiveName": "Sorbitols",
+      "id": "164",
+      "isGroup": "No",
+      "subject": "additive-164"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E307",
+      "additiveName": "Alpha-tocopherol",
+      "id": "102",
+      "isGroup": "No",
+      "subject": "additive-102"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E200",
+      "additiveName": "Sorbic acid",
+      "id": "46",
+      "isGroup": "No",
+      "subject": "additive-46"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E385",
+      "additiveName": "Calcium disodium ethylene diamine tetra-acetate (Calcium disodium EDTA)",
+      "id": "144",
+      "isGroup": "No",
+      "subject": "additive-144"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E551 - 553",
+      "additiveName": "Silicon dioxide - silicates",
+      "id": "378",
+      "isGroup": "Yes",
+      "subject": "additive-378"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E333",
+      "additiveName": "Calcium citrates",
+      "id": "122",
+      "isGroup": "No",
+      "subject": "additive-122"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E407",
+      "additiveName": "Carrageenan",
+      "id": "154",
+      "isGroup": "No",
+      "subject": "additive-154"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E475",
+      "additiveName": "Polyglycerol esters of fatty acids",
+      "id": "206",
+      "isGroup": "No",
+      "subject": "additive-206"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1202",
+      "additiveName": "Polyvinylpolypyrrolidone",
+      "id": "331",
+      "isGroup": "No",
+      "subject": "additive-331"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E212",
+      "additiveName": "Potassium benzoate",
+      "id": "56",
+      "isGroup": "No",
+      "subject": "additive-56"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E942",
+      "additiveName": "Nitrous oxide",
+      "id": "306",
+      "isGroup": "No",
+      "subject": "additive-306"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E162",
+      "additiveName": "Beetroot Red, betanin",
+      "id": "37",
+      "isGroup": "No",
+      "subject": "additive-37"
+    },
+    {
+      "context": "Additive",
+      "additiveName": "L-leucine",
+      "id": "367",
+      "isGroup": "No",
+      "subject": "additive-367"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E235",
+      "additiveName": "Natamycin",
+      "id": "73",
+      "isGroup": "No",
+      "subject": "additive-73"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E433",
+      "additiveName": "Polyoxyethylene sorbitan monooleate (polysorbate 80)",
+      "id": "173",
+      "isGroup": "No",
+      "subject": "additive-173"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E451",
+      "additiveName": "Triphosphates",
+      "id": "182",
+      "isGroup": "No",
+      "subject": "additive-182"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1203",
+      "additiveName": "Polyvinyl alcohol (PVA)",
+      "id": "332",
+      "isGroup": "No",
+      "subject": "additive-332"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1452",
+      "additiveName": "Starch Aluminium Octenyl Succinate",
+      "id": "346",
+      "isGroup": "No",
+      "subject": "additive-346"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E280 - 283",
+      "additiveName": "Propionic acid - propionates",
+      "id": "88",
+      "isGroup": "Yes",
+      "subject": "additive-88"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E102",
+      "additiveName": "Tartrazine",
+      "id": "7",
+      "isGroup": "No",
+      "subject": "additive-7"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E423",
+      "additiveName": "Modified acacia gum",
+      "id": "357",
+      "isGroup": "No",
+      "subject": "additive-357"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E132",
+      "additiveName": "Indigotine, Indigo carmine",
+      "id": "17",
+      "isGroup": "No",
+      "subject": "additive-17"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E418",
+      "additiveName": "Gellan gum",
+      "id": "163",
+      "isGroup": "No",
+      "subject": "additive-163"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E151",
+      "additiveName": "Brilliant Black BN, Black PN",
+      "id": "27",
+      "isGroup": "No",
+      "subject": "additive-27"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E471",
+      "additiveName": "Mono-and diglycerides of fatty acids",
+      "id": "196",
+      "isGroup": "No",
+      "subject": "additive-196"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E959",
+      "additiveName": "Neohesperidine DC",
+      "id": "319",
+      "isGroup": "No",
+      "subject": "additive-319"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E306",
+      "additiveName": "Tocopherol-rich extract",
+      "id": "101",
+      "isGroup": "No",
+      "subject": "additive-101"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E200 - 203",
+      "additiveName": "Sorbic acid - sorbates (SA)",
+      "id": "47",
+      "isGroup": "Yes",
+      "subject": "additive-47"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E332",
+      "additiveName": "Potassium citrates",
+      "id": "121",
+      "isGroup": "No",
+      "subject": "additive-121"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E280",
+      "additiveName": "Propionic acid",
+      "id": "87",
+      "isGroup": "No",
+      "subject": "additive-87"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E380",
+      "additiveName": "Triammonium citrate",
+      "id": "143",
+      "isGroup": "No",
+      "subject": "additive-143"
+    },
+    {
+      "context": "Additive",
+      "e_number": "..",
+      "additiveName": "Anthrapen",
+      "id": "377",
+      "isGroup": "No",
+      "subject": "additive-377"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E316",
+      "additiveName": "Sodium erythorbate",
+      "id": "111",
+      "isGroup": "No",
+      "subject": "additive-111"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E406",
+      "additiveName": "Agar",
+      "id": "153",
+      "isGroup": "No",
+      "subject": "additive-153"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E476",
+      "additiveName": "Polyglycerol polyricinoleate",
+      "id": "207",
+      "isGroup": "No",
+      "subject": "additive-207"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E941",
+      "additiveName": "Nitrogen",
+      "id": "305",
+      "isGroup": "No",
+      "subject": "additive-305"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E213",
+      "additiveName": "Calcium benzoate",
+      "id": "57",
+      "isGroup": "No",
+      "subject": "additive-57"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1204",
+      "additiveName": "Pullulan",
+      "id": "333",
+      "isGroup": "No",
+      "subject": "additive-333"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E627",
+      "additiveName": "Disodium guanylate",
+      "id": "281",
+      "isGroup": "No",
+      "subject": "additive-281"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E234",
+      "additiveName": "Nisin",
+      "id": "72",
+      "isGroup": "No",
+      "subject": "additive-72"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E410",
+      "additiveName": "Locust bean gum",
+      "id": "156",
+      "isGroup": "No",
+      "subject": "additive-156"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E452",
+      "additiveName": "Polyphosphates",
+      "id": "183",
+      "isGroup": "No",
+      "subject": "additive-183"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E436",
+      "additiveName": "Polyoxyethylene sorbitan tristearate (polysorbate 65)",
+      "id": "176",
+      "isGroup": "No",
+      "subject": "additive-176"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E163",
+      "additiveName": "Anthocyanins",
+      "id": "38",
+      "isGroup": "No",
+      "subject": "additive-38"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E219",
+      "additiveName": "Sodium methyl p-hydroxybenzoate",
+      "id": "62",
+      "isGroup": "No",
+      "subject": "additive-62"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E174",
+      "additiveName": "Silver",
+      "id": "43",
+      "isGroup": "No",
+      "subject": "additive-43"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E556",
+      "additiveName": "Calcium aluminium silicate",
+      "id": "260",
+      "isGroup": "No",
+      "subject": "additive-260"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E133",
+      "additiveName": "Brilliant Blue FCF",
+      "id": "18",
+      "isGroup": "No",
+      "subject": "additive-18"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E341 (iii)",
+      "additiveName": "Tricalcium phosphate",
+      "id": "356",
+      "isGroup": "No",
+      "subject": "additive-356"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E469",
+      "additiveName": "Enzymatically hydrolysed carboxy methyl cellulose, Enzymatically hydrolysed cellulose gum",
+      "id": "193",
+      "isGroup": "No",
+      "subject": "additive-193"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E417",
+      "additiveName": "Tara gum",
+      "id": "162",
+      "isGroup": "No",
+      "subject": "additive-162"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E150b",
+      "additiveName": "Caustic sulphite caramel",
+      "id": "24",
+      "isGroup": "No",
+      "subject": "additive-24"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E335",
+      "additiveName": "Sodium tartrates",
+      "id": "124",
+      "isGroup": "No",
+      "subject": "additive-124"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1442",
+      "additiveName": "Hydroxy propyl distarch phosphate",
+      "id": "343",
+      "isGroup": "No",
+      "subject": "additive-343"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E104",
+      "additiveName": "Quinoline Yellow",
+      "id": "8",
+      "isGroup": "No",
+      "subject": "additive-8"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E494",
+      "additiveName": "Sorbitan monooleate",
+      "id": "218",
+      "isGroup": "No",
+      "subject": "additive-218"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1207",
+      "additiveName": "Anionic methacrylate copolymer",
+      "id": "376",
+      "isGroup": "No",
+      "subject": "additive-376"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E363",
+      "additiveName": "Succinic acid",
+      "id": "142",
+      "isGroup": "No",
+      "subject": "additive-142"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E477",
+      "additiveName": "Propane-1,2-diol esters of fatty acids",
+      "id": "208",
+      "isGroup": "No",
+      "subject": "additive-208"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E524",
+      "additiveName": "Sodium hydroxide",
+      "id": "240",
+      "isGroup": "No",
+      "subject": "additive-240"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E175",
+      "additiveName": "Gold",
+      "id": "44",
+      "isGroup": "No",
+      "subject": "additive-44"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E309",
+      "additiveName": "Delta-tocopherol",
+      "id": "104",
+      "isGroup": "No",
+      "subject": "additive-104"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E214",
+      "additiveName": "Ethyl-p-hydroxybenzoate",
+      "id": "58",
+      "isGroup": "No",
+      "subject": "additive-58"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E939",
+      "additiveName": "Helium",
+      "id": "304",
+      "isGroup": "No",
+      "subject": "additive-304"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E315",
+      "additiveName": "Erythorbic acid",
+      "id": "110",
+      "isGroup": "No",
+      "subject": "additive-110"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E459",
+      "additiveName": "Beta-cyclodextrin",
+      "id": "184",
+      "isGroup": "No",
+      "subject": "additive-184"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E228",
+      "additiveName": "Potassium hydrogen sulphite",
+      "id": "71",
+      "isGroup": "No",
+      "subject": "additive-71"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1205",
+      "additiveName": "Basic methacrylate copolymer",
+      "id": "334",
+      "isGroup": "No",
+      "subject": "additive-334"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E626 - 635",
+      "additiveName": "Ribonucleotides",
+      "id": "280",
+      "isGroup": "Yes",
+      "subject": "additive-280"
+    },
+    {
+      "context": "Additive",
+      "additiveName": "Cystine",
+      "id": "369",
+      "isGroup": "No",
+      "subject": "additive-369"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E435",
+      "additiveName": "Polyoxyethylene sorbitan monostearate (polysorbate 60)",
+      "id": "175",
+      "isGroup": "No",
+      "subject": "additive-175"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E140",
+      "additiveName": "Chlorophylls and Chlorophyllins",
+      "id": "19",
+      "isGroup": "No",
+      "subject": "additive-19"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E170",
+      "additiveName": "Calcium carbonate",
+      "id": "39",
+      "isGroup": "No",
+      "subject": "additive-39"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E558",
+      "additiveName": "Bentonite",
+      "id": "261",
+      "isGroup": "No",
+      "subject": "additive-261"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E905a",
+      "additiveName": "High viscosity mineral oils",
+      "id": "355",
+      "isGroup": "No",
+      "subject": "additive-355"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E218",
+      "additiveName": "Methyl p-hydroxybenzoate",
+      "id": "61",
+      "isGroup": "No",
+      "subject": "additive-61"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1206",
+      "additiveName": "Neutral Methacrylate Copolymer",
+      "id": "375",
+      "isGroup": "No",
+      "subject": "additive-375"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E110",
+      "additiveName": "Sunset Yellow FCF/Orange Yellow S",
+      "id": "9",
+      "isGroup": "No",
+      "subject": "additive-9"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E470a",
+      "additiveName": "Sodium, potassium and calcium salts of fatty acids",
+      "id": "194",
+      "isGroup": "No",
+      "subject": "additive-194"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1450",
+      "additiveName": "Starch sodium octenyl succinate",
+      "id": "344",
+      "isGroup": "No",
+      "subject": "additive-344"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E150c",
+      "additiveName": "Ammonia caramel",
+      "id": "25",
+      "isGroup": "No",
+      "subject": "additive-25"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E416",
+      "additiveName": "Karaya gum",
+      "id": "161",
+      "isGroup": "No",
+      "subject": "additive-161"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E334",
+      "additiveName": "Tartaric acid (L(+)-)",
+      "id": "123",
+      "isGroup": "No",
+      "subject": "additive-123"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E479b",
+      "additiveName": "Thermally oxidized soya bean oil interacted with mono and diglycerides of fatty acids",
+      "id": "209",
+      "isGroup": "No",
+      "subject": "additive-209"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E357",
+      "additiveName": "Potassium adipate",
+      "id": "141",
+      "isGroup": "No",
+      "subject": "additive-141"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E308",
+      "additiveName": "Gamma-tocopherol",
+      "id": "103",
+      "isGroup": "No",
+      "subject": "additive-103"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E180",
+      "additiveName": "Litholrubine BK",
+      "id": "45",
+      "isGroup": "No",
+      "subject": "additive-45"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E524 - 528",
+      "additiveName": "Hydroxides",
+      "id": "241",
+      "isGroup": "Yes",
+      "subject": "additive-241"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E938",
+      "additiveName": "Argon",
+      "id": "303",
+      "isGroup": "No",
+      "subject": "additive-303"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E495",
+      "additiveName": "Sorbitan monopalmitate",
+      "id": "219",
+      "isGroup": "No",
+      "subject": "additive-219"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E214 - 219",
+      "additiveName": "p-hydroxybenzoates (PHB)",
+      "id": "59",
+      "isGroup": "Yes",
+      "subject": "additive-59"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E407a",
+      "additiveName": "Processed euchema seaweed",
+      "id": "155",
+      "isGroup": "No",
+      "subject": "additive-155"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E535 - 538",
+      "additiveName": "Ferrocyanides",
+      "id": "249",
+      "isGroup": "Yes",
+      "subject": "additive-249"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E953",
+      "additiveName": "Isomalt",
+      "id": "315",
+      "isGroup": "No",
+      "subject": "additive-315"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1200",
+      "additiveName": "Polydextrose",
+      "id": "329",
+      "isGroup": "No",
+      "subject": "additive-329"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E500 - 504",
+      "additiveName": "Carbonates",
+      "id": "221",
+      "isGroup": "Yes",
+      "subject": "additive-221"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E555",
+      "additiveName": "Potassium aluminium silicate",
+      "id": "259",
+      "isGroup": "No",
+      "subject": "additive-259"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E310 - 320",
+      "additiveName": "Gallates, TBHQ and BHA",
+      "id": "106",
+      "isGroup": "Yes",
+      "subject": "additive-106"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E514",
+      "additiveName": "Sodium sulphates",
+      "id": "231",
+      "isGroup": "No",
+      "subject": "additive-231"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E944",
+      "additiveName": "Propane",
+      "id": "309",
+      "isGroup": "No",
+      "subject": "additive-309"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E415",
+      "additiveName": "Xanthan gum",
+      "id": "160",
+      "isGroup": "No",
+      "subject": "additive-160"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1518",
+      "additiveName": "Glyceryl triacetate (triacetin)",
+      "id": "349",
+      "isGroup": "No",
+      "subject": "additive-349"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E172",
+      "additiveName": "Iron oxides and hydroxides",
+      "id": "41",
+      "isGroup": "No",
+      "subject": "additive-41"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E472c",
+      "additiveName": "Citric acid esters of mono- and diglycerides of fatty acids",
+      "id": "199",
+      "isGroup": "No",
+      "subject": "additive-199"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E124",
+      "additiveName": "Ponceau 4R, Cochineal Red A",
+      "id": "13",
+      "isGroup": "No",
+      "subject": "additive-13"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E620 - 625",
+      "additiveName": "Glutamic acid - glutamates",
+      "id": "273",
+      "isGroup": "Yes",
+      "subject": "additive-273"
+    },
+    {
+      "context": "Additive",
+      "e_number": "Group II",
+      "additiveName": "Group II, Food colours authorised at <em>quantum satis</em>",
+      "id": "2",
+      "isGroup": "Yes",
+      "subject": "additive-2"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E352",
+      "additiveName": "Calcium malates ",
+      "id": "135",
+      "isGroup": "No",
+      "subject": "additive-135"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E202",
+      "additiveName": "Potassium sorbate",
+      "id": "51",
+      "isGroup": "No",
+      "subject": "additive-51"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E252",
+      "additiveName": "Potassium nitrate",
+      "id": "81",
+      "isGroup": "No",
+      "subject": "additive-81"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E460",
+      "additiveName": "Cellulose",
+      "id": "185",
+      "isGroup": "No",
+      "subject": "additive-185"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E392",
+      "additiveName": "Extracts of rosemary",
+      "id": "145",
+      "isGroup": "No",
+      "subject": "additive-145"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E629",
+      "additiveName": "Calcium guanylate",
+      "id": "283",
+      "isGroup": "No",
+      "subject": "additive-283"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E431",
+      "additiveName": "Polyoxyethylene (40) stearate",
+      "id": "170",
+      "isGroup": "No",
+      "subject": "additive-170"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1404",
+      "additiveName": "Oxidised starch",
+      "id": "335",
+      "isGroup": "No",
+      "subject": "additive-335"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E500",
+      "additiveName": "Sodium carbonates",
+      "id": "220",
+      "isGroup": "No",
+      "subject": "additive-220"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E535",
+      "additiveName": "Sodium ferrocyanide",
+      "id": "248",
+      "isGroup": "No",
+      "subject": "additive-248"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E954",
+      "additiveName": "Saccharins",
+      "id": "316",
+      "isGroup": "No",
+      "subject": "additive-316"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E331",
+      "additiveName": "Sodium citrates",
+      "id": "120",
+      "isGroup": "No",
+      "subject": "additive-120"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E554",
+      "additiveName": "Sodium aluminium silicate",
+      "id": "258",
+      "isGroup": "No",
+      "subject": "additive-258"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E340",
+      "additiveName": "Potassium phosphates",
+      "id": "130",
+      "isGroup": "No",
+      "subject": "additive-130"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E310",
+      "additiveName": "Propyl gallate",
+      "id": "105",
+      "isGroup": "No",
+      "subject": "additive-105"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E513",
+      "additiveName": "Sulphuric acid",
+      "id": "230",
+      "isGroup": "No",
+      "subject": "additive-230"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E620",
+      "additiveName": "Glutamic acid",
+      "id": "272",
+      "isGroup": "No",
+      "subject": "additive-272"
+    },
+    {
+      "context": "Additive",
+      "e_number": "Group III",
+      "additiveName": "Group III, Food colours with combined maximum limit",
+      "id": "3",
+      "isGroup": "Yes",
+      "subject": "additive-3"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E173",
+      "additiveName": "Aluminium",
+      "id": "42",
+      "isGroup": "No",
+      "subject": "additive-42"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E353",
+      "additiveName": "Metatartaric acid",
+      "id": "136",
+      "isGroup": "No",
+      "subject": "additive-136"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E123",
+      "additiveName": "Amaranth",
+      "id": "12",
+      "isGroup": "No",
+      "subject": "additive-12"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1410",
+      "additiveName": "Monostarch phosphate",
+      "id": "336",
+      "isGroup": "No",
+      "subject": "additive-336"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E260",
+      "additiveName": "Acetic acid",
+      "id": "82",
+      "isGroup": "No",
+      "subject": "additive-82"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E461",
+      "additiveName": "Methyl cellulose",
+      "id": "186",
+      "isGroup": "No",
+      "subject": "additive-186"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E400",
+      "additiveName": "Alginic acid",
+      "id": "146",
+      "isGroup": "No",
+      "subject": "additive-146"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E203",
+      "additiveName": "Calcium sorbate",
+      "id": "52",
+      "isGroup": "No",
+      "subject": "additive-52"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E628",
+      "additiveName": "Dipotassium guanylate",
+      "id": "282",
+      "isGroup": "No",
+      "subject": "additive-282"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E530",
+      "additiveName": "Magnesium oxide",
+      "id": "247",
+      "isGroup": "No",
+      "subject": "additive-247"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E955",
+      "additiveName": "Sucralose",
+      "id": "317",
+      "isGroup": "No",
+      "subject": "additive-317"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E311",
+      "additiveName": "Octyl gallate",
+      "id": "108",
+      "isGroup": "No",
+      "subject": "additive-108"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E943a",
+      "additiveName": "Butane",
+      "id": "307",
+      "isGroup": "No",
+      "subject": "additive-307"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1103",
+      "additiveName": "Invertase",
+      "id": "327",
+      "isGroup": "No",
+      "subject": "additive-327"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E350",
+      "additiveName": "Sodium malates ",
+      "id": "133",
+      "isGroup": "No",
+      "subject": "additive-133"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E341",
+      "additiveName": "Calcium phosphates",
+      "id": "131",
+      "isGroup": "No",
+      "subject": "additive-131"
+    },
+    {
+      "context": "Additive",
+      "e_number": "Group IV",
+      "additiveName": "Group IV, Polyols",
+      "id": "4",
+      "isGroup": "Yes",
+      "subject": "additive-4"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1505",
+      "additiveName": "Triethyl citrate",
+      "id": "347",
+      "isGroup": "No",
+      "subject": "additive-347"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E472a",
+      "additiveName": "Acetic acid esters of mono- and diglycerides of fatty acids",
+      "id": "197",
+      "isGroup": "No",
+      "subject": "additive-197"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E155",
+      "additiveName": "Brown HT",
+      "id": "29",
+      "isGroup": "No",
+      "subject": "additive-29"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E586",
+      "additiveName": "4-Hexylresorcinol",
+      "id": "271",
+      "isGroup": "No",
+      "subject": "additive-271"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E516",
+      "additiveName": "Calcium sulphate",
+      "id": "233",
+      "isGroup": "No",
+      "subject": "additive-233"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E129",
+      "additiveName": "Allura Red AC",
+      "id": "15",
+      "isGroup": "No",
+      "subject": "additive-15"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E912",
+      "additiveName": "Montan acid esters",
+      "id": "299",
+      "isGroup": "No",
+      "subject": "additive-299"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E432 - 436",
+      "additiveName": "Polysorbates",
+      "id": "172",
+      "isGroup": "Yes",
+      "subject": "additive-172"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E462",
+      "additiveName": "Ethyl cellulose",
+      "id": "187",
+      "isGroup": "No",
+      "subject": "additive-187"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E400 - 404",
+      "additiveName": "Alginic acid - alginates",
+      "id": "147",
+      "isGroup": "Yes",
+      "subject": "additive-147"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E631",
+      "additiveName": "Disodium inosinate",
+      "id": "285",
+      "isGroup": "No",
+      "subject": "additive-285"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1412",
+      "additiveName": "Distarch phosphate",
+      "id": "337",
+      "isGroup": "No",
+      "subject": "additive-337"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E210",
+      "additiveName": "Benzoic acid",
+      "id": "53",
+      "isGroup": "No",
+      "subject": "additive-53"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E529",
+      "additiveName": "Calcium oxide",
+      "id": "246",
+      "isGroup": "No",
+      "subject": "additive-246"
+    },
+    {
+      "context": "Additive",
+      "e_number": "243",
+      "additiveName": "Ethyl lauroyl arginate",
+      "id": "370",
+      "insNumber": "243",
+      "isGroup": "No",
+      "subject": "additive-370"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E211",
+      "additiveName": "Sodium benzoate",
+      "id": "55",
+      "isGroup": "No",
+      "subject": "additive-55"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E282",
+      "additiveName": "Calcium propionate",
+      "id": "90",
+      "isGroup": "No",
+      "subject": "additive-90"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E957",
+      "additiveName": "Thaumatin",
+      "id": "318",
+      "isGroup": "No",
+      "subject": "additive-318"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E515",
+      "additiveName": "Potassium sulphates",
+      "id": "232",
+      "isGroup": "No",
+      "subject": "additive-232"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E943b",
+      "additiveName": "Isobutane",
+      "id": "308",
+      "isGroup": "No",
+      "subject": "additive-308"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1105",
+      "additiveName": "Lysozyme",
+      "id": "328",
+      "isGroup": "No",
+      "subject": "additive-328"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E310 - 321",
+      "additiveName": "Gallates, TBHQ, BHA and BHT",
+      "id": "107",
+      "isGroup": "Yes",
+      "subject": "additive-107"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E907",
+      "additiveName": "Hydrogenated poly-1-decene",
+      "id": "298",
+      "isGroup": "No",
+      "subject": "additive-298"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E343",
+      "additiveName": "Magnesium phosphates",
+      "id": "132",
+      "isGroup": "No",
+      "subject": "additive-132"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E127",
+      "additiveName": "Erythrosine",
+      "id": "14",
+      "isGroup": "No",
+      "subject": "additive-14"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E351",
+      "additiveName": "Potassium malate",
+      "id": "134",
+      "isGroup": "No",
+      "subject": "additive-134"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1517",
+      "additiveName": "Glyceryl diacetate (diacetin)",
+      "id": "348",
+      "isGroup": "No",
+      "subject": "additive-348"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E472b",
+      "additiveName": "Lactic acid esters of mono- and diglycerides of fatty acids",
+      "id": "198",
+      "isGroup": "No",
+      "subject": "additive-198"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E100",
+      "additiveName": "Curcumin",
+      "id": "5",
+      "isGroup": "No",
+      "subject": "additive-5"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E227",
+      "additiveName": "Calcium hydrogen sulphite",
+      "id": "70",
+      "isGroup": "No",
+      "subject": "additive-70"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E171",
+      "additiveName": "Titanium dioxide",
+      "id": "40",
+      "isGroup": "No",
+      "subject": "additive-40"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E585",
+      "additiveName": "Ferrous lactate",
+      "id": "270",
+      "isGroup": "No",
+      "subject": "additive-270"
+    },
+    {
+      "context": "Additive",
+      "additiveName": "Medium viscosity mineral oil",
+      "id": "359",
+      "isGroup": "No",
+      "subject": "additive-359"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E153",
+      "additiveName": "Vegetable carbon",
+      "id": "28",
+      "isGroup": "No",
+      "subject": "additive-28"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E432",
+      "additiveName": "Polyoxyethylene sorbitan monolaurate (polysorbate 20)",
+      "id": "171",
+      "isGroup": "No",
+      "subject": "additive-171"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E210 - 213",
+      "additiveName": "Benzoic acid - benzoates (BA)",
+      "id": "54",
+      "isGroup": "Yes",
+      "subject": "additive-54"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E630",
+      "additiveName": "Inosinic acid",
+      "id": "284",
+      "isGroup": "No",
+      "subject": "additive-284"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E251 - 252",
+      "additiveName": "Nitrates",
+      "id": "80",
+      "isGroup": "Yes",
+      "subject": "additive-80"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1413",
+      "additiveName": "Phosphated distarch phosphate",
+      "id": "338",
+      "isGroup": "No",
+      "subject": "additive-338"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E401",
+      "additiveName": "Sodium alginate",
+      "id": "148",
+      "isGroup": "No",
+      "subject": "additive-148"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E463",
+      "additiveName": "Hydroxypropyl cellulose",
+      "id": "188",
+      "isGroup": "No",
+      "subject": "additive-188"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1519",
+      "additiveName": "Benzyl alcohol",
+      "id": "350",
+      "isGroup": "No",
+      "subject": "additive-350"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E482",
+      "additiveName": "Calcium stearoyl-2-lactylate",
+      "id": "212",
+      "isGroup": "No",
+      "subject": "additive-212"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E226",
+      "additiveName": "Calcium sulphite",
+      "id": "69",
+      "isGroup": "No",
+      "subject": "additive-69"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E552",
+      "additiveName": "Calcium silicate",
+      "id": "255",
+      "isGroup": "No",
+      "subject": "additive-255"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E624",
+      "additiveName": "Monoammonium glutamate",
+      "id": "277",
+      "isGroup": "No",
+      "subject": "additive-277"
+    },
+    {
+      "context": "Additive",
+      "additiveName": "Calcium lignosulfonate (40-65)",
+      "id": "361",
+      "isGroup": "No",
+      "subject": "additive-361"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E283",
+      "additiveName": "Potassium propionate",
+      "id": "91",
+      "isGroup": "No",
+      "subject": "additive-91"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E905",
+      "additiveName": "Microcrystalline wax",
+      "id": "297",
+      "isGroup": "No",
+      "subject": "additive-297"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E414",
+      "additiveName": "Gum arabic (acacia gum)",
+      "id": "159",
+      "isGroup": "No",
+      "subject": "additive-159"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E968",
+      "additiveName": "Erythritol",
+      "id": "325",
+      "isGroup": "No",
+      "subject": "additive-325"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E427",
+      "additiveName": "Cassia gum",
+      "id": "169",
+      "isGroup": "No",
+      "subject": "additive-169"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E528",
+      "additiveName": "Magnesium hydroxide",
+      "id": "245",
+      "isGroup": "No",
+      "subject": "additive-245"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E464",
+      "additiveName": "Hydroxypropyl methyl cellulose",
+      "id": "189",
+      "isGroup": "No",
+      "subject": "additive-189"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E172-507",
+      "additiveName": "Food Printig additives",
+      "id": "371",
+      "isGroup": "No",
+      "subject": "additive-371"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E949",
+      "additiveName": "Hydrogen",
+      "id": "311",
+      "isGroup": "No",
+      "subject": "additive-311"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E1414",
+      "additiveName": "Acetylated distarch phosphate",
+      "id": "339",
+      "isGroup": "No",
+      "subject": "additive-339"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E633",
+      "additiveName": "Calcium inosinate",
+      "id": "287",
+      "isGroup": "No",
+      "subject": "additive-287"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E402",
+      "additiveName": "Potassium alginate",
+      "id": "149",
+      "isGroup": "No",
+      "subject": "additive-149"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E507",
+      "additiveName": "Hydrochloric acid",
+      "id": "225",
+      "isGroup": "No",
+      "subject": "additive-225"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E520",
+      "additiveName": "Aluminium sulphate",
+      "id": "235",
+      "isGroup": "No",
+      "subject": "additive-235"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E355 - 357",
+      "additiveName": "Adipic acid - adipates",
+      "id": "139",
+      "isGroup": "Yes",
+      "subject": "additive-139"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E483",
+      "additiveName": "Stearyl tartrate",
+      "id": "213",
+      "isGroup": "No",
+      "subject": "additive-213"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E224",
+      "additiveName": "Potassium metabisulphite",
+      "id": "68",
+      "isGroup": "No",
+      "subject": "additive-68"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E904",
+      "additiveName": "Shellac",
+      "id": "296",
+      "isGroup": "No",
+      "subject": "additive-296"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E999",
+      "additiveName": "Quillaia extract",
+      "id": "326",
+      "isGroup": "No",
+      "subject": "additive-326"
+    },
+    {
+      "context": "Additive",
+      "e_number": "499",
+      "additiveName": "Stigmasterol-rich plant sterols",
+      "id": "362",
+      "isGroup": "No",
+      "subject": "additive-362"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E284",
+      "additiveName": "Boric acid",
+      "id": "92",
+      "isGroup": "No",
+      "subject": "additive-92"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E312",
+      "additiveName": "Dodecyl gallate",
+      "id": "109",
+      "isGroup": "No",
+      "subject": "additive-109"
+    },
+    {
+      "context": "Additive",
+      "e_number": "....",
+      "additiveName": "Polyvinyl Alcohol (PVA)-Polyethylene Glycol (PEG) Graft Co-polymer",
+      "id": "372",
+      "isGroup": "No",
+      "subject": "additive-372"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E950",
+      "additiveName": "Acesulfame K",
+      "id": "312",
+      "isGroup": "No",
+      "subject": "additive-312"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E527",
+      "additiveName": "Ammonium hydroxide",
+      "id": "244",
+      "isGroup": "No",
+      "subject": "additive-244"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E330",
+      "additiveName": "Citric acid",
+      "id": "119",
+      "isGroup": "No",
+      "subject": "additive-119"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E632",
+      "additiveName": "Dipotassium inosinate",
+      "id": "286",
+      "isGroup": "No",
+      "subject": "additive-286"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E504",
+      "additiveName": "Magnesium carbonates",
+      "id": "224",
+      "isGroup": "No",
+      "subject": "additive-224"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E517",
+      "additiveName": "Ammonium sulphate",
+      "id": "234",
+      "isGroup": "No",
+      "subject": "additive-234"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E551 - 559",
+      "additiveName": "Silicon dioxide - silicates",
+      "id": "254",
+      "isGroup": "Yes",
+      "subject": "additive-254"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E623",
+      "additiveName": "Calcium diglutamate",
+      "id": "276",
+      "isGroup": "No",
+      "subject": "additive-276"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E339",
+      "additiveName": "Sodium phosphates",
+      "id": "129",
+      "isGroup": "No",
+      "subject": "additive-129"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E285",
+      "additiveName": "Sodium tetraborate (borax)",
+      "id": "93",
+      "isGroup": "No",
+      "subject": "additive-93"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E903",
+      "additiveName": "Carnauba wax",
+      "id": "295",
+      "isGroup": "No",
+      "subject": "additive-295"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E412",
+      "additiveName": "Guar gum",
+      "id": "157",
+      "isGroup": "No",
+      "subject": "additive-157"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E966",
+      "additiveName": "Lactitol",
+      "id": "323",
+      "isGroup": "No",
+      "subject": "additive-323"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E120",
+      "additiveName": "Cochineal, Carminic acid, Carmines",
+      "id": "10",
+      "isGroup": "No",
+      "subject": "additive-10"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E553b",
+      "additiveName": "Talc",
+      "id": "257",
+      "isGroup": "No",
+      "subject": "additive-257"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E951",
+      "additiveName": "Aspartame",
+      "id": "313",
+      "insNumber": "951",
+      "isGroup": "No",
+      "subject": "additive-313"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E472d",
+      "additiveName": "Tartaric acid esters of mono- and diglycerides of fatty acids",
+      "id": "200",
+      "isGroup": "No",
+      "subject": "additive-200"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E635",
+      "additiveName": "Disodium 5'-ribonucleotides",
+      "id": "289",
+      "isGroup": "No",
+      "subject": "additive-289"
+    },
+    {
+      "context": "Additive",
+      "additiveName": "Potassium Cinnamate",
+      "id": "373",
+      "isGroup": "No",
+      "subject": "additive-373"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E503",
+      "additiveName": "Ammonium carbonates",
+      "id": "223",
+      "isGroup": "No",
+      "subject": "additive-223"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E327",
+      "additiveName": "Calcium lactate",
+      "id": "118",
+      "isGroup": "No",
+      "subject": "additive-118"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E526",
+      "additiveName": "Calcium hydroxide",
+      "id": "243",
+      "isGroup": "No",
+      "subject": "additive-243"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E354",
+      "additiveName": "Calcium tartrate",
+      "id": "137",
+      "isGroup": "No",
+      "subject": "additive-137"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E622",
+      "additiveName": "Monopotassium glutamate",
+      "id": "275",
+      "isGroup": "No",
+      "subject": "additive-275"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E521",
+      "additiveName": "Aluminium sodium sulphate",
+      "id": "237",
+      "isGroup": "No",
+      "subject": "additive-237"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E122",
+      "additiveName": "Azorubine, Carmoisine",
+      "id": "11",
+      "isGroup": "No",
+      "subject": "additive-11"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E481",
+      "additiveName": "Sodium stearoyl-2-lactylate",
+      "id": "210",
+      "isGroup": "No",
+      "subject": "additive-210"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E290",
+      "additiveName": "Carbon dioxide",
+      "id": "94",
+      "isGroup": "No",
+      "subject": "additive-94"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E413",
+      "additiveName": "Tragacanth",
+      "id": "158",
+      "isGroup": "No",
+      "subject": "additive-158"
+    },
+    {
+      "context": "Additive",
+      "e_number": "...",
+      "additiveName": "Iron (III) meso-Tartrate",
+      "id": "360",
+      "isGroup": "No",
+      "subject": "additive-360"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E902",
+      "additiveName": "Candelilla wax",
+      "id": "294",
+      "isGroup": "No",
+      "subject": "additive-294"
+    },
+    {
+      "context": "Additive",
+      "e_number": "Group I",
+      "additiveName": "Group I, Additives",
+      "id": "1",
+      "isGroup": "Yes",
+      "subject": "additive-1"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E553a",
+      "additiveName": "Magnesium silicate ",
+      "id": "256",
+      "isGroup": "No",
+      "subject": "additive-256"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E481 - 482",
+      "additiveName": "Stearoyl-2- lactylates",
+      "id": "211",
+      "isGroup": "Yes",
+      "subject": "additive-211"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E967",
+      "additiveName": "Xylitol",
+      "id": "324",
+      "isGroup": "No",
+      "subject": "additive-324"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E634",
+      "additiveName": "Calcium 5'-ribonucleotides",
+      "id": "288",
+      "isGroup": "No",
+      "subject": "additive-288"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E472e",
+      "additiveName": "Mono and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids",
+      "id": "201",
+      "isGroup": "No",
+      "subject": "additive-201"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E952",
+      "additiveName": "Cyclamates",
+      "id": "314",
+      "isGroup": "No",
+      "subject": "additive-314"
+    },
+    {
+      "context": "Additive",
+      "additiveName": "Dihydroquercetin",
+      "id": "374",
+      "isGroup": "No",
+      "subject": "additive-374"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E160a",
+      "additiveName": "Carotenes",
+      "id": "30",
+      "isGroup": "No",
+      "subject": "additive-30"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E200 - 219",
+      "additiveName": "Sorbic acid - sorbates; Benzoic acid - benzoates; p-hydroxybenzoates (SA + BA + PHB)",
+      "id": "50",
+      "isGroup": "Yes",
+      "subject": "additive-50"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E501",
+      "additiveName": "Potassium carbonates",
+      "id": "222",
+      "isGroup": "No",
+      "subject": "additive-222"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E525",
+      "additiveName": "Potassium hydroxide",
+      "id": "242",
+      "isGroup": "No",
+      "subject": "additive-242"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E326",
+      "additiveName": "Potassium lactate",
+      "id": "117",
+      "isGroup": "No",
+      "subject": "additive-117"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E621",
+      "additiveName": "Monosodium glutamate",
+      "id": "274",
+      "isGroup": "No",
+      "subject": "additive-274"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E355",
+      "additiveName": "Adipic acid",
+      "id": "138",
+      "isGroup": "No",
+      "subject": "additive-138"
+    },
+    {
+      "context": "Additive",
+      "e_number": "E520 - 523",
+      "additiveName": "Aluminium sulphates",
+      "id": "236",
+      "isGroup": "Yes",
+      "subject": "additive-236"
+    },
+    {
+      "context": "Additive",
+      "e_number": "......",
+      "additiveName": "Galactomannan",
+      "id": "380",
+      "isGroup": "No",
+      "subject": "additive-380"
+    },
+    {
+      "context": "http://ec.europa.eu/geninfo/LegalNotices",
+      "http://www.w3.org/2000/01/rdf-schema#label": {
+        "en": "The information and data on this site is subject to a disclaimer, a copyright notice rules related to personal data protection and cookies.  For further information:   http://ec.europa.eu/geninfo/legal_notices_en.htm"
+      },
+      "subject": "http://ec.europa.eu/geninfo/legal_notices_en.htm"
+    }
+  ]
+}

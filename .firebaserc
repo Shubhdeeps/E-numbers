@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "food-additives"
+  },
+  "targets": {
+    "food-additives": {
+      "hosting": {
+        "food-additives": [
+          "dist"
+        ]
+      }
+    }
+  }
+}
